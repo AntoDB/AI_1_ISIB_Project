@@ -1,4 +1,4 @@
-<a href="https://github.com/AntoDB/dev_app_reseau?tab=readme-ov-file#cours-he2b---isib-master-1-ia-intelligence-artificielle">[fr below/fr en dessous]</a>
+<a href="https://github.com/AntoDB/AI_1_ISIB_Project/tree/main?tab=readme-ov-file#cours-he2b---isib-master-1-ia-intelligence-artificielle">[fr below/fr en dessous]</a>
 
 # [HE2B - ISIB courses Master 1] AI (Artificial Intelligence)
 ## Course instructions
@@ -33,15 +33,15 @@ For the sake of the experiment, I have added the future line 3 as well as a fict
 ![Metro map with line 3](https://raw.githubusercontent.com/AntoDB/AI_1_ISIB_Project/main/readme_files/M3planmetro.png)
 *Metro map with future line 3
 
-You can see the latest versions of these codes with the 5 algorithms [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%201%20-%20Algo.%20de%20recherche/).
+You can see the latest versions of these codes with the 5 algorithms [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%201%20-%20Algo.%20de%20recherche/).
 
 ## Partie 2 : Power 8 game
 The game chosen is a Power 8. As in Power 4, you have to align your pieces horizontally, vertically and/or diagonally. In this version, you don't need to line up four checkers but eight to complete the game. The grid is therefore not 6x7 but 10x13 to allow the eight pieces to be aligned.
 
-For this project, I went back to [the grid and the counters](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/) even though I didn't take the time to implement the images of the counters.
-You can admire the graphics [in this directory](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/).
+For this project, I went back to [the grid and the counters](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/) even though I didn't take the time to implement the images of the counters.
+You can admire the graphics [in this directory](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/).
 
-You can see the latest versions of the code with just min-max (minimax) and the one with min-max (minimax) with alpha-beta optimisation [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/).
+You can see the latest versions of the code with just min-max (minimax) and the one with min-max (minimax) with alpha-beta optimisation [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/).
 
 ## Part 3: Agenda for April 2024
 To create a coherent schedule for my diary for April 2024, taking into account the priorities and constraints of the various activities. This is a common problem of planning and organisation based on non-overlap and priority constraints.
@@ -70,10 +70,10 @@ Steps to follow:
 3. Restart your IDE:
     * Be sure to close and reopen your IDE or terminal to apply the changes.
 
-You can see the latest versions of the code [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%203%20-%20Algo.%20contrainte%20-%20Agenda%20avril%202024/).
+You can see the latest versions of the code [here, in this folder](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%203%20-%20Algo.%20contrainte%20-%20Agenda%20avril%202024).
 
 ## Report
-As part of the course, I had to do a [report (in French)](https://github.com/AntoDB/AI_1_ISIB_Project/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf) which is available [here, on this GitHub](https://github.com/AntoDB/AI_1_ISIB_Project/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf).
+As part of the course, I had to do a [report (in French)](https://github.com/AntoDB/AI_1_ISIB_Project/blob/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf) which is available [here, on this GitHub](https://github.com/AntoDB/AI_1_ISIB_Project/blob/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf).
 
 ## Contact
 For all enquiries: <a href="mailto:contact@antodb.be">contact@antodb.be</a>
@@ -112,15 +112,15 @@ Pour le bien de l’expérience, j’ai rajouté la future ligne 3 ainsi qu’un
 ![Metro map with line 3](https://raw.githubusercontent.com/AntoDB/AI_1_ISIB_Project/main/readme_files/M3planmetro.png)
 *Plan de métro avec la future ligne 3*
 
-Vous pouvez voir les dernières versions de ces codes avec les 5 algorithmes [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%201%20-%20Algo.%20de%20recherche/).
+Vous pouvez voir les dernières versions de ces codes avec les 5 algorithmes [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%201%20-%20Algo.%20de%20recherche/).
 
 ## Partie 2 : Jeu Puissance 8
 Le jeu choisi est un Puissance 8. Comme le Puissance 4, il faut aligner des pions horizontalement, verticalement et/ou diagonalement. Dans cette version, il ne faut pas aligner quatre pions mais huit pour réussir la partie. La grille ne fait donc pas 6x7 mais 10x13 pour permettre la réalisation de l’alignement des huit palets.
 
-Pour ce projet, j'ai redeigné [la grille et les pions](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/) même si finalement je n'ai pas pris le temps d'implémenter les images des pions.
-Vous pouvez admirer les graphismes [dans ce répertoire](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/).
+Pour ce projet, j'ai redeigné [la grille et les pions](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/) même si finalement je n'ai pas pris le temps d'implémenter les images des pions.
+Vous pouvez admirer les graphismes [dans ce répertoire](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/Puissance_8/Images/).
 
-Vous pouvez voir les dernières versions du code avec juste min-max (minimax) et celle avec min-max (minimax) avec l'optimisation alpha-beta [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/).
+Vous pouvez voir les dernières versions du code avec juste min-max (minimax) et celle avec min-max (minimax) avec l'optimisation alpha-beta [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%202%20-%20Algo.%20jeu%20-%20Puissance%208/).
 
 ## Partie 3 : Agenda du mois d'avril 2024
 Création d’un planning cohérent de mon agenda du mois d’avril 2024 en tenant compte des priorités et des contraintes des différentes activités. C’est un problème courant de planification et d’organisation en fonction de contraintes de non-chevauchement et de priorité.
@@ -149,10 +149,10 @@ Etapes à suivre :
 3. Redémarrer l'IDE :
     * Assurez-vous de fermer et de rouvrir votre IDE ou votre terminal pour appliquer les changements.
 
-Vous pouvez voir les dernières versions du code [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/main/Projet%203%20-%20Algo.%20contrainte%20-%20Agenda%20avril%202024/).
+Vous pouvez voir les dernières versions du code [ici, dans ce dossier](https://github.com/AntoDB/AI_1_ISIB_Project/tree/main/Projet%203%20-%20Algo.%20contrainte%20-%20Agenda%20avril%202024).
 
 ## Rapport
-Dans le cadre du cours, j'ai du faire un [rapport](https://github.com/AntoDB/AI_1_ISIB_Project/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf) qui est disponible [ici, sur ce GitHub](https://github.com/AntoDB/AI_1_ISIB_Project/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf).
+Dans le cadre du cours, j'ai du faire un [rapport](https://github.com/AntoDB/AI_1_ISIB_Project/blob/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf) qui est disponible [ici, sur ce GitHub](https://github.com/AntoDB/AI_1_ISIB_Project/blob/main/Compte%20rendu%20projets%20Intelligence%20Articielle%20-%20Juin%202024%20-%20Antonin%20v3.pdf).
 
 ## Contact
 Pour toute demande : <a href="mailto:contact@antodb.be">contact@antodb.be</a>
